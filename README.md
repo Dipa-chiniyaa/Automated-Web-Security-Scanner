@@ -262,10 +262,9 @@ Starting from a perfect score of **100**, penalties are applied and the result i
 Please read `CONTRIBUTING.md` (coming soon) before submitting large changes.
 
 ---
-
 ## License
 
-This project is licensed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+This project is licensed under the **MIT License**. See [`LICENSE.md`](LICENSE.md) for details.
 
 ---
 
